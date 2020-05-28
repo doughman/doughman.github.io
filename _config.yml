@@ -20,7 +20,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: 
-    github:  github.com/doughman
+    github: doughman
     linkedIn: 
     rss: rss
     # dribbble: jekyll
