@@ -1,8 +1,8 @@
-title: 대충 되는 걸로 하는 거야
+title: 개발자로 구워지지 못 한 반죽맨..
 author: doughman
 email: rongassride@gamil.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  개발자로 구워지지 못 한 반죽맨..
+  대충 되는 걸로 하는 거야
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: doughman
+  tagline: Dive-loper
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
